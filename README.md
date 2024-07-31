@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
   <img alt="Repo Size" src="https://custom-icon-badges.demolab.com/github/repo-size/slashedzer0/nobara-dotfiles?style=flat&logo=file-zip&color=91d7e3&logoColor=D9E0EE&labelColor=363a4f" />
-  <img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/slashedzer0/nobara-dotfiles/main?style=flat&logo=history&color=a6da95&logoColor=D9E0EE&labelColor=363a4f" />
+  <img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/slashedzer0/nobara-dotfiles/catppuccin?style=flat&color=a6da95&logo=history&logoColor=D9E0EE&labelColor=363a4f" />
   <img alt="License" src="https://custom-icon-badges.demolab.com/github/license/slashedzer0/nobara-dotfiles?style=flat&logo=law&color=f5a97f&logoColor=D9E0EE&labelColor=363a4f" />
 </p>
 
