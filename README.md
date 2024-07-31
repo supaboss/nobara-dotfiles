@@ -22,14 +22,14 @@
 
 ## <samp>🌸 screenshots</samp>
 
-<!-- ![homescreen.png](assets/homescreen.png) -->
-![floating.png](assets/floating.png)
+<!-- ![homescreen.png](screenshots/homescreen.png) -->
+![floating.png](screenshots/floating.png)
 
-<!-- ![spotify.png](assets/spotify.png) -->
-![busy.png](assets/busy.png)
+<!-- ![spotify.png](screenshots/spotify.png) -->
+![busy.png](screenshots/busy.png)
 
-![terminal.png](assets/terminal.png)
-<!-- ![code.png](assets/code.png) -->
+![terminal.png](screenshots/terminal.png)
+<!-- ![code.png](screenshots/code.png) -->
 
 
 ## <samp>⚠️ important</samp>
